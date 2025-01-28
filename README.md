@@ -1,5 +1,5 @@
 # Bharti-Linear-Regression-Assignment
-# Predicting Demand for Shared Bikes Using Multiple Linear Regression: A Business Strategy for Post-Pandemic Recovery
+## Predicting Demand for Shared Bikes Using Multiple Linear Regression
 
 ## Overview
 
